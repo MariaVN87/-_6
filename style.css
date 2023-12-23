@@ -1,0 +1,54 @@
+.container_box
+{
+width: 1140px;
+height: 113.95px;
+position: relative;
+}
+.container
+{
+width: 360px;
+height: 587px;
+background-color: rgb(198, 196, 196);
+float: left;
+
+}
+.image
+{
+width: 360px;
+height:420px;
+text-align: center;
+
+}
+.description
+{
+    width: 314.74px;
+    height: 51px;
+    text-align: center;
+    font-size: 13.97px;
+ 
+}
+.name
+{
+    width: 148.11px;
+    height: 16px;
+    text-align: center;
+    font-size: 19.96px;
+    
+}
+.price
+{
+    width: 52.46px;
+    height: 19px;
+    text-align: center;
+    font-size: 19.96px;
+    color:red;
+    
+}
+button
+{
+background-color: white;
+font-size:16px;
+color:red;
+border: 2px solid red;
+background-position: center;
+}
